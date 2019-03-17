@@ -7,6 +7,10 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/remvil/reactway-teslas-battery-range-calculator"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
